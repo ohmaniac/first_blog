@@ -1,0 +1,6 @@
+Das ist eine Testdatei,
+die mehrere Zeilen enthält.
+Drei
+Vier
+Fünf
+Sogar Sechs Zeilen Text...
